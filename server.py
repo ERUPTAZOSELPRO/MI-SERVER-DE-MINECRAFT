@@ -12,7 +12,8 @@
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)1
-# jp		      Japón (Tokyo)
+# jp		      Japón (Tokyo)1
+
 
 
 # sa		      Sudamérica (São Paulo)
