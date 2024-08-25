@@ -20,7 +20,7 @@
 # us		      Estados unindos (Ohio)
 
  
-# us-cal-1	      Estados unidos (Califrnia)
+# us-cal-1	      Estados  unidos (Califrnia)
 
 
 
