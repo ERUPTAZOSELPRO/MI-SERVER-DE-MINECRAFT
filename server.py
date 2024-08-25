@@ -17,7 +17,7 @@
 
 
 # sa		      Sudamérica (São Paulo)
-# us		      Estados unindos (Ohio)
+# us		      Estados unin   dos (Ohio)
 
  
 # us-cal-1	      Estados  unidos (Califrnia)
