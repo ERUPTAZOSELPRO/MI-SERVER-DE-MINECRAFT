@@ -1,26 +1,26 @@
-# Versiones disponiblese
-# forge, mohist, fabric, vanilla, paper1
+# Versiones 
+# forge, mohist, fabric, vanilla, paper1 
 
-# Puedes instalar mohist después de instalar forge desde el menú de gestionar
+# Puedes instalar mohist después de instalar forge desde el menú de gestionar1
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 
 # Regiones de ngrok
-# Código          Lugar
+# Código         Lugar
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
-# au		      Australia (Sydney)
+# au		      Australi  a (Sydney)
 # eu		      Europa (Frankfurt)1
 # in		      India (Mumbai)1
 # jp		      Japón (Tokyo)1
 
 
 
-# sa		      Sudamérica (São Paulo)
-# us		      Estados unin   ados (Ohio)
+# sa		      Sudamérica   (São Paulo)
+# us		      Estados unidos (Ohio)
 
  
-# us-cal-1	      Estados  unidos (Califrnia)
+# us-cal-1	      Estad  os  unidos (Califrnia)
 
 
 
