@@ -7,7 +7,7 @@
 #Tonto el que lo lea>> Gilipoyaz
 # Regiones de ngrok
 # Código         Lugar
-#-----------      ---------------------------
+#-----------        
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australi  a (Sydney)
 # eu		      Europa (Frankfurt)1
