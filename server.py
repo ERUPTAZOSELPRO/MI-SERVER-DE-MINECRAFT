@@ -4,7 +4,7 @@
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar1
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
-
+#Tonto el que lo lea>> Gilipoyaz
 # Regiones de ngrok
 # Código         Lugar
 #-----------      ---------------------------
