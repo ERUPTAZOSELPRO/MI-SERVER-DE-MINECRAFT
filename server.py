@@ -16,7 +16,7 @@
 
 
 
-# sa		          (São Paulo)
+# sa		          (Sã  o Paulo)
 # us		      Estados unidos (Ohio)
 
  
