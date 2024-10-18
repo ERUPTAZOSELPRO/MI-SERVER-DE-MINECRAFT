@@ -18,7 +18,7 @@
 
 
 # sa		          (Sã  o Paulo)
-# us		      Estados unidos (Ohio)
+# us		      Estados unidos (Oh   io)
 
  
 # us-cal-1	      Estad  os  un idos   (Califrnia)
