@@ -1,6 +1,7 @@
 111# Versiones 
 # forge, mohist, fabric, vanilla, paper1 
 
+
 # Puedes instalar mo  hist después de instalar forge desde el menú de gestionar1
 # Puedes instalar paper después de i   nstalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
@@ -20,7 +21,7 @@
 # us		      Estados unidos (Ohio)
 
  
-# us-cal-1	      Estad  os  un idos (Califrnia)
+# us-cal-1	      Estad  os  un idos   (Califrnia)
 
 
 
